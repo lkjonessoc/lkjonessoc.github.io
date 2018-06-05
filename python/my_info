@@ -1,0 +1,2 @@
+my_info = {"first_name": "Leslie", "last_name": "Carrot", "hometown": "Bikini Bottom", "favorite_food": "chocolate" }
+my_info['hometown']
